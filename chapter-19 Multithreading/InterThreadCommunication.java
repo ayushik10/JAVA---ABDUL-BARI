@@ -58,7 +58,7 @@ class Consumer extends Thread {
     }
 }
 
-public class InterThreadComunication {
+public class InterThreadCommunication {
     public static void main(String args[]) {
         MyData d = new MyData();
 
